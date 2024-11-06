@@ -1,4 +1,4 @@
-# Disaster Survivor Managment System
+# Disaster Survivor Management System
 
 Desktop application developed with .NET Framework 4.7.1 by making use of the EmguCV library, recording the notifications given by the users to the database and detecting these records from the admin screen with face recognition technology and sending e-mails to their relatives.
 
